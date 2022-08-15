@@ -1,0 +1,8 @@
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\bin\Debug\DateTimeConsoleApp2.exe.config
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\bin\Debug\DateTimeConsoleApp2.exe
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\bin\Debug\DateTimeConsoleApp2.pdb
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\obj\Debug\DateTimeConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\obj\Debug\DateTimeConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\obj\Debug\DateTimeConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\obj\Debug\DateTimeConsoleApp2.exe
+C:\Users\Afsal\source\repos\DateTimeConsoleApp2\DateTimeConsoleApp2\obj\Debug\DateTimeConsoleApp2.pdb
